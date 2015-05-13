@@ -1,0 +1,38 @@
+/*	 Licensed Materials - Property of IBM
+	 5725-I43 (C) Copyright IBM Corp. 2006, 2013. All Rights Reserved.
+	 US Government Users Restricted Rights - Use, duplication or
+     disclosure restricted by GSA ADP Schedule Contract with IBM Corp. */
+
+	.body
+	{
+	height: 100%;
+	}
+	
+	.logo{
+	margin: 0 auto;
+	max-width: 90%;
+	height: 90%;
+}
+	.footer{
+	font-family: Helvetica; 
+	text-align: center;
+	font-size: 10px;
+	position: absolute; 
+	bottom: 0px;
+	left: 0px;
+	right: 0px; 
+	z-index:0;
+	
+	}
+	
+	.button{
+	
+	font-family: Helvetica; 
+	text-align: center;
+	font-size: 25px;
+	margin: 0 auto;
+	max-width: 60%;
+	height: 60px;
+	border-color: black;
+	border: 2px;
+	}
