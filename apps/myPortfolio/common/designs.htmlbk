@@ -1,0 +1,34 @@
+<!DOCTYPE HTML>
+<html>
+    	<head>
+    		<meta charset="UTF-8">
+    		<title>myPortfolio</title>
+    		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0">
+    		<link rel="shortcut icon" href="images/favicon.png">
+    		<link rel="apple-touch-icon" href="images/apple-touch-icon.png"> 
+    		<link rel="stylesheet" href="css/main.css">
+    		<script>window.$ = window.jQuery = WLJQ;</script>
+    	</head>
+    <body id="body">
+    <div >
+	    <script src="js/initOptions.js"></script>
+	    <script src="js/main.js"></script>
+	    <script src="js/messages.js"></script>
+		<div class="header">
+			<img border="0" src="images/logo_header.png" width=100% height=100%>
+		</div>
+		<div class="about">
+		<div class="logo">
+			<img border="0" src="images/logo_designs.png" width=100% height=100%>
+		</div>
+		galería
+	</div>
+		
+		<div class="footer">
+		<a href="home.html">Home</a>
+		<a href="about.html">About Me</a>
+		<a href="designs.html">Designs</a>
+		<a href=contact.html>Contact Me</a><br/>
+	Design by Mar&iacute;a Laura Tula 2015</div>
+    	</div></body>
+</html>
