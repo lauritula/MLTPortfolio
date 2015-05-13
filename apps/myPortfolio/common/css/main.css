@@ -3,9 +3,14 @@
 	 US Government Users Restricted Rights - Use, duplication or
      disclosure restricted by GSA ADP Schedule Contract with IBM Corp. */
 
-	.body
+		
+	#body
 	{
+	width: 100%;
 	height: 100%;
+	background-image: url(../images/background.png);
+	background-position: center center;
+	
 	}
 	
 	.logo{
@@ -17,22 +22,30 @@
 	font-family: Helvetica; 
 	text-align: center;
 	font-size: 10px;
-	position: absolute; 
-	bottom: 0px;
-	left: 0px;
-	right: 0px; 
-	z-index:0;
+	width: 100%;
+	}
 	
+	.header{
+	font-family: Helvetica; 
+	text-align: center;
+	font-size: 10px;
+	width: 100%;
+	height: 30%;
 	}
 	
 	.button{
-	
 	font-family: Helvetica; 
 	text-align: center;
-	font-size: 25px;
+	font-size: 20px;
 	margin: 0 auto;
 	max-width: 60%;
-	height: 60px;
-	border-color: black;
-	border: 2px;
+	height: 70px;
 	}
+	
+	.about{
+	width: 100%;
+	height: 40%;
+	float: left;
+	text-align: center;
+	}
+	
